@@ -1,7 +1,7 @@
 # Cheese-Run
 2D Game Made on Pygame played with Keyboard Input
 
-## How to Play
+## How to Play (run using main.py)
  - move around using the arrow keys
  - Unlock the exit block by eating 5 pieces of cheese
  - to use the warp blocks click the number of the portal you would like to go to
